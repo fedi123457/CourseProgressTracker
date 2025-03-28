@@ -16,5 +16,5 @@ The Indexer` is a Python script that generates a Markdown index file (`0. INDEX.
 ## Installation
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/<your-username>/the-indexer.git
+   git clone https://github.com/fedi123457/the-indexer.git
    cd the-indexer
